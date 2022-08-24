@@ -1,2 +1,3 @@
-# absen-qrCode
-Aplikasi Web Absen Berbasis PHP dengan QR Code
+
+Aplikasi Absensi Pegawai Berbasis QR Code dengan PHP dan Data Base Mysqli
+
